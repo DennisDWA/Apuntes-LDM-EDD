@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tienda>
+	<producto id="P001">
+		<nombre>Televisor LED 42"</nombre>
+		<descripcion>Televisor LED de 42 pulgadas con resolución Full HD</descripcion>
+		<precio>399.99</precio>
+		<categoria>Electrónica</categoria>
+		<disponibilidad>En stock</disponibilidad>
+		<imagen>https://m.media-amazon.com/images/I/81l6B8-l9LL.jpg</imagen>
+	</producto>
+	<producto id="P002">
+		<nombre>Smartphone XYZ</nombre>
+		<descripcion>Smartphone de última generación con cámara de 48MP y pantalla AMOLED</descripcion>
+		<precio>699.99</precio>
+		<categoria>Electrónica</categoria>
+		<disponibilidad>En stock</disponibilidad>
+		<imagen>https://png.pngtree.com/png-vector/20240815/ourmid/pngtree-smartphone-innovations-power-in-your-pocket-png-image_13493453.png</imagen>
+	</producto>
+	<producto id="P003">
+		<nombre>Auriculares Inalámbricos</nombre>
+		<descripcion>Auriculares Bluetooth con cancelación de ruido y batería de larga duración</descripcion>
+		<precio>149.99</precio>
+		<categoria>Accesorios</categoria>
+		<disponibilidad>Agotado</disponibilidad>
+		<imagen>https://jaz-music.com/cdn/shop/files/TEJZHEADPUREBTW_PAN_1.jpg?v=1704203853</imagen>
+	</producto>
+	<producto id="P004">
+		<nombre>Portátil Gamer</nombre>
+		<descripcion>Portátil de alto rendimiento con tarjeta gráfica dedicada y procesador i7</descripcion>
+		<precio>1299.99</precio>
+		<categoria>Computadoras</categoria>
+		<disponibilidad>En stock</disponibilidad>
+		<imagen>https://i.blogs.es/6f33ca/msi-thin-a15-b7ve-040xes/650_1200.jpg</imagen>
+	</producto>
+	<producto id="P005">
+		<nombre>Smartwatch FitPro</nombre>
+		<descripcion>Reloj inteligente con monitor de ritmo cardíaco y seguimiento de actividad física</descripcion>
+		<precio>199.99</precio>
+		<categoria>Accesorios</categoria>
+		<disponibilidad>En stock</disponibilidad>
+		<imagen>https://play-lh.googleusercontent.com/IBy6zlzFEWGmNaJlWmJAwWWg5YmgjpJTBLIzBwerV6DC8tloTTH-u7NqFr6sAf2jQbFf</imagen>
+	</producto>
+</tienda>

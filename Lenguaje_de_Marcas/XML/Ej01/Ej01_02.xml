@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Productos_Electronicos>
+	<Producto>
+		<nombre>Computadora</nombre>
+		<descripcion>Portátil de alto rendimiento</descripcion>
+		<precio>1200</precio>
+		<caracteristicas>
+			<carecteristica pantalla="15.6 pulgadas"/><carecteristica/>
+			<carecteristica procesador="Intel i7"/><carecteristica/>
+			<carecteristica ram="16GB"/><carecteristica/>
+		</caracteristicas>
+	</Producto>
+	<Producto>
+		<nombre>Camara Sony Angel 4300</nombre>
+		<descripcion>Cámara digital de alta resolución</descripcion>
+		<precio>800</precio>
+		<caracteristicas>
+			<carecteristica resolucion="24MP"/><carecteristica/>
+			<carecteristica zoom="10x óptico"/><carecteristica/>
+			<carecteristica video="4K"/><carecteristica/>
+		</caracteristicas>
+	</Producto>
+</Productos_Electronicos>

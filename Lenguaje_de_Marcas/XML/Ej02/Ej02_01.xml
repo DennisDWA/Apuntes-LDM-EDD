@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Buscador>
+	<poesia>
+		<titulo>Elegía</titulo>
+		<autor fec_nac="30-10-1910" fec_mort="28-03-1942">autor</autor>
+		<movimiento>Generación del 36</movimiento>
+		<tematica>dolor por la muerte de un amigo</tematica>
+		<estilo>neorromántico</estilo>
+		<estrofas>15</estrofas>
+		<lineas>60</lineas>
+	</poesia>
+</Buscador>
